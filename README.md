@@ -1,13 +1,15 @@
 # Daily Solve Problems
 
-This repository contains C++ solutions for daily coding problems of My Learnings.
+My Learning 
+
 ## Overview
 
 - **Language**: C++
-- **Purpose**: Practice and improve coding skills by solving daily problems from various platforms.
-- **Structure**: Each solution is contained within a C++ class, following standard conventions.
 
-## Problem 1: Find the Index of the First Occurrence in a String
+## Problems List
+
+<details>
+<summary><strong>Problem 1: Find the Index of the First Occurrence in a String</strong></summary>
 
 - **Platform**: [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/?envType=study-plan-v2&envId=top-interview-150)
 - **Difficulty**: Easy/Medium
